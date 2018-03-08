@@ -1,0 +1,23 @@
+.table{
+	border-collapse: collapse;/* Линия между ячейками отображается только одна */
+	margin: auto;/* Выравниваем таблицу по центру окна  */
+}
+
+.column_year{
+	width:10%;
+}
+.column_antanta{
+	width:25%;
+}
+
+.column_italy{
+	background-color:green;
+	color:white;
+}
+
+.column_warEnd1918{
+	color: blue;
+	border: double #000000;
+}
+
+	
